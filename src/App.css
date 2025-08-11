@@ -1,0 +1,21 @@
+.app-container {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  justify-content: center;
+}
+
+.btn {
+  background-color: rgb(111, 0, 215);
+  padding: 6px 12px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.action-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
