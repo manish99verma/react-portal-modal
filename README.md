@@ -1,1 +1,1 @@
-# [Live link](https://github.com/manish99verma/react-portal-modal.git)
+# [Live link](https://manish99verma.github.io/react-portal-modal/)
